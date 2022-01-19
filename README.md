@@ -77,7 +77,7 @@ The form component is being used on the next projects, there is a live demo on t
 Here is a list of different forms and the more in detail functionality:
 
 ### Dynamic forms
-You can create the forms based on their types and update them on the UI
+You can create the forms based on their types and update them on the UI, the next Types list generated the form on the Values Tab
 https://shop.listws.com/v2/store/demo/editor/demoshop.listws.app/default/sections/3/schema/types
 
 ### Automatic Breadcrumb navigation
