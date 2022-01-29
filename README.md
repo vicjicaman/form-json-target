@@ -68,7 +68,7 @@ The form component is being used on the next projects, there is a live demo on t
  https://table.listws.com/v2/table/editor/table-v2.listws.app/products
 
 ### LandingWS
- https://landing.listws.com/v2/landing/demo/editor/landing.listws.com/home
+ https://landing.listws.com/v2/landing/demo/editor/tailwind-kit.listws.app/website
 
 ### ShopWS 
  https://shop.listws.com/v2/store/demo/editor/demoshop.listws.app/default
