@@ -1,6 +1,11 @@
 # form-json-target
 A React component to capture and generate form from JSON schema
 
+## Examples for the latest version
+https://code.vicjicama.com/demo/app/form-schema/
+
+I will update the details on this repository soon!
+
 ## Schema helper library
 - Extract default values
 - Resolve $ref, oneOf, anyOf, allOf
@@ -60,7 +65,7 @@ I started this component because I needed to capture a lot of configuration para
 - Any complex object compare made easy (with oneOf/oneOf resolved)
 - All the data interactions are reduced to a single "target" type, making very easy debug complex forms schemas
 
-## Examples
+## Examples for the previous version
 
 The form component is being used on the next projects, there is a live demo on the link, all the forms and controls are an instance of this component.
 
