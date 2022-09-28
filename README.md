@@ -8,7 +8,7 @@ https://code.vicjicama.com/demo/app/form-schema/
 
 Here are a couple demos that are using the component in real functionality scenario:
 
-Html editor
+HTML editor
 https://code.vicjicama.com/demo/app/editor/
 
 SQL table viewer/editor
