@@ -4,6 +4,17 @@ A React component to capture and generate form from JSON schema
 ## Live demos
 https://code.vicjicama.com/demo/app/form-schema/
 
+## Real life functionality in live demos
+
+Here are a couple demos that are using the component in real functionality scenario:
+
+Html editor
+https://code.vicjicama.com/demo/app/editor/
+
+SQL table viewer/editor
+https://code.vicjicama.com/demo/app/table-viewer/
+
+
 ## Motivation
 I wanted to reuse my backend validations easily on the frontend
 
